@@ -18,4 +18,5 @@ if st.button("Convert"):
 
 # Add some footer info
 st.markdown("---")
-st.caption("Developed by Raghvendra Dhakar | Simple Unit Converter using Streamlit")
+st.caption("Developed by Keshav Dhakar | Simple Unit Converter using Streamlit")
+
